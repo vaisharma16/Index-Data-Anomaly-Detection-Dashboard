@@ -1,8 +1,4 @@
-Great! Here's a professional, clear, and deploy-ready `README.md` for your **Index Data Anomaly Detection Dashboard** GitHub project:
 
----
-
-```markdown
 # 📊 Index Data Anomaly Detection Dashboard
 
 A Streamlit-powered web app for detecting anomalies in financial index data (e.g., Nifty 50). This project identifies missing values, negative closings, sudden price spikes, and abnormal volume patterns in historical stock index data.
