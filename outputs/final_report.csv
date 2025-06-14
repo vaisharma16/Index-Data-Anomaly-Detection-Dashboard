@@ -1,0 +1,5 @@
+Anomaly_Type,Date,Index_Name,Closing_Value,Volume
+missing_values,2025-05-01,Nifty 50,,2864962
+negative_closing,2025-04-26,Nifty 50,-5.0,2974896
+sudden_spikes,2025-04-26,Nifty 50,-5.0,2974896
+sudden_spikes,2025-05-11,Nifty 50,39639.384000000005,3270762
